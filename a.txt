@@ -1,2 +1,6 @@
 it is a.txt file
+<<<<<<< HEAD
 insert into command line
+=======
+
+>>>>>>> c078f8bd9447aea8b808f6465866a070dd1fb975
